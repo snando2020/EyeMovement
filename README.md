@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/3.jpg" alt="Real Time Bus Tracker" />
+  <img src="./img/2.jpg" alt="Eye Movement" />
 </div>
 
 <h1 align="center">Real Time Bus Tracker</h1>
