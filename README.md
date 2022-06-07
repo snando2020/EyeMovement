@@ -59,7 +59,7 @@ It would be nice the next improvements:
 This project is under license from MIT.
 
 
-Made with :heart: by <a href="https://snando2020.github.io/" target="_blank">Saul F. Vega Montenegro</a>
+Made by <a href="https://snando2020.github.io/" target="_blank">Saul F. Vega Montenegro</a>
 
 &#xa0;
 
