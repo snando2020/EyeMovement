@@ -2,7 +2,7 @@
   <img src="./img/2.jpg" alt="Eye Movement" />
 </div>
 
-<h1 align="center">Real Time Bus Tracker</h1>
+<h1 align="center">Eye Movement</h1>
 <hr> -->
 
 <p align="center">
