@@ -48,7 +48,7 @@ $ cd EyeMovement
 
 ```
 
-## :pincel: Improvements ##
+## :pencil2: Improvements ##
 
 It would be nice the next improvements:
 - [ ] Modify class eyes en two.
