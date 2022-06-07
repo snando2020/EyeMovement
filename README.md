@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Eye Movement</h1>
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -52,7 +52,7 @@ $ cd EyeMovement
 
 It would be nice the next improvements:
 - [ ] Modify class eyes en two.
-- [ ] Use prperties of Transform in the css.
+- [ ] Use properties of Transform in the css.
 
 ## :memo: License ##
 
