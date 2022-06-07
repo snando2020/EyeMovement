@@ -35,7 +35,7 @@ The following tools were used in this project:
 - HTML
 - CSS
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Installation ##
 
 ```bash
 # Clone this project
